@@ -17,9 +17,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1ccc2d1-e886-4f08-916a-d401b49df385" name="Default Changelist" comment="start files">
-      <change afterPath="$PROJECT_DIR$/Model/Model_Artikel/Artikel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/DBLogic/Local_Log.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewModel/Login_ViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/NOS Applicatie/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/NOS Applicatie/v16/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Model/Acties.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Acties.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Model/Data.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Data.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Model.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Model.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOS Applicatie.sln" beforeDir="false" afterPath="$PROJECT_DIR$/NOS Applicatie.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/Login_View.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/View/Login_View.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/Login_View.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/View/Login_View.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/View.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/View/View.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewModel/ViewModel.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ViewModel/ViewModel.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +48,15 @@
         <option value="$PROJECT_DIR$/Model/Security.cs" />
         <option value="$PROJECT_DIR$/ViewModel/Class1.cs" />
         <option value="$PROJECT_DIR$/Model/Class1.cs" />
-        <option value="$PROJECT_DIR$/Model/Model_Medewerker/Medewerker.cs" />
         <option value="$PROJECT_DIR$/Model/Model_Artikel/Artikel.cs" />
+        <option value="$PROJECT_DIR$/Model/Model_Medewerker/Medewerker.cs" />
+        <option value="$PROJECT_DIR$/View/Login_View.xaml" />
+        <option value="$PROJECT_DIR$/View/Login_View.xaml.cs" />
+        <option value="$PROJECT_DIR$/ViewModel/Login_ViewModel.cs" />
         <option value="$PROJECT_DIR$/Model/Data.cs" />
+        <option value="$PROJECT_DIR$/Model/DBLogic/Log.cs" />
         <option value="$PROJECT_DIR$/Model/Acties.cs" />
+        <option value="$PROJECT_DIR$/Model/DBLogic/Local_Log.cs" />
       </list>
     </option>
   </component>
@@ -60,47 +75,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.NOS Applicatie">
-    <configuration name="Model" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Model/Model.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="NOS Applicatie" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/NOS Applicatie/NOS Applicatie.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="View" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/View/bin/Debug/View.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -109,26 +88,8 @@
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="ViewModel" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ViewModel/ViewModel.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -144,6 +105,8 @@
       <updated>1622474461398</updated>
       <workItem from="1622474471657" duration="1850000" />
       <workItem from="1622478034091" duration="60000" />
+      <workItem from="1622488188700" duration="1549000" />
+      <workItem from="1622491634092" duration="1091000" />
     </task>
     <task id="LOCAL-00001" summary="start files">
       <created>1622474553095</created>
@@ -185,22 +148,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="start files" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="231" key="GridCell.Tab.0.bottom" timestamp="1622476340176">
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622489911817">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="231" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1622476340176" />
-    <state width="1237" height="231" key="GridCell.Tab.0.center" timestamp="1622476340176">
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1622489911817" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1622492017788">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="231" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1622476340176" />
-    <state width="1237" height="231" key="GridCell.Tab.0.left" timestamp="1622476340176">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1622492017788" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1622492017788">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="231" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1622476340176" />
-    <state width="1237" height="231" key="GridCell.Tab.0.right" timestamp="1622476340176">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1622492017788" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1622492017788">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="231" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1622476340176" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1622492017788" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1622492017788">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1622492017788" />
     <state width="1237" height="231" key="GridCell.Tab.1.bottom" timestamp="1622476340176">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
