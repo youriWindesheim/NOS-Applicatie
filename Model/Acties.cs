@@ -1,7 +1,10 @@
 ﻿namespace Model
 {
-    public class Acties
+    public static class Acties
     {
-        
+        public static bool Login(int personeelsnummer, string wachtwoord)
+        {
+            return true;
+        }
     }
 }

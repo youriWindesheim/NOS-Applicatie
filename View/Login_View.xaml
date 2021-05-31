@@ -1,0 +1,17 @@
+﻿<Window x:Class="View.Login_View"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:View"
+        mc:Ignorable="d"
+        Title="Login" Height="233.5" Width="373">
+    <Grid>
+        <Button Content="Log in" HorizontalAlignment="Left" Margin="201,145,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="156,38,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Personeelsnummer" HorizontalAlignment="Left" Margin="40,38,0,0" VerticalAlignment="Top" RenderTransformOrigin="-5.158,-0.667"/>
+        <Label Content="Wachtwoord" HorizontalAlignment="Left" Margin="40,64,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="156,67,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

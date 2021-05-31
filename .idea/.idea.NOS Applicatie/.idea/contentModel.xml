@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tjour\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tjour\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_NOS Applicatie.-1241814739.00" t="ExcludeRecursive" />
+    <e p="C:\Users\tjour\AppData\Roaming\JetBrains\Rider2020.2\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\tjour\AppData\Roaming\JetBrains\Rider2020.2\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\tjour\Documents\C#\NOS\NOS Applicatie" t="IncludeFlat">
+      <e p="Model" t="IncludeRecursive">
+        <e p="Acties.cs" t="Include" />
+        <e p="Beveiliging" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data.cs" t="Include" />
+        <e p="DBLogic" t="Include" />
+        <e p="Model.csproj" t="IncludeRecursive" />
+        <e p="Model_Artikel" t="Include">
+          <e p="Artikel.cs" t="Include" />
+        </e>
+        <e p="Model_Medewerker" t="Include">
+          <e p="Medewerker.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Model.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="NOS Applicatie" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="NOS Applicatie.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="NOS Applicatie.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="NOS Applicatie.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="View" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="View.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="View.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="ViewModel" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ViewModel.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ViewModel.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
