@@ -16,20 +16,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ccc2d1-e886-4f08-916a-d401b49df385" name="Default Changelist" comment="start files">
-      <change afterPath="$PROJECT_DIR$/Model/DBLogic/Local_Log.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ViewModel/Login_ViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="a1ccc2d1-e886-4f08-916a-d401b49df385" name="Default Changelist" comment="Fixed frameworks">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/NOS Applicatie/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/NOS Applicatie/v16/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Model/Acties.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Acties.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/Data.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Data.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/Model.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Model.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOS Applicatie.sln" beforeDir="false" afterPath="$PROJECT_DIR$/NOS Applicatie.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/Login_View.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/View/Login_View.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/Login_View.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/View/Login_View.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/View.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/View/View.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ViewModel/ViewModel.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ViewModel/ViewModel.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +44,8 @@
         <option value="$PROJECT_DIR$/ViewModel/Login_ViewModel.cs" />
         <option value="$PROJECT_DIR$/Model/Data.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/Log.cs" />
-        <option value="$PROJECT_DIR$/Model/Acties.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/Local_Log.cs" />
+        <option value="$PROJECT_DIR$/Model/Acties.cs" />
       </list>
     </option>
   </component>
@@ -106,7 +95,8 @@
       <workItem from="1622474471657" duration="1850000" />
       <workItem from="1622478034091" duration="60000" />
       <workItem from="1622488188700" duration="1549000" />
-      <workItem from="1622491634092" duration="1091000" />
+      <workItem from="1622491634092" duration="1311000" />
+      <workItem from="1622536052530" duration="952000" />
     </task>
     <task id="LOCAL-00001" summary="start files">
       <created>1622474553095</created>
@@ -122,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622475911218</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixed frameworks">
+      <created>1622492840765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622492840765</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,29 +142,30 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="start files" />
-    <option name="LAST_COMMIT_MESSAGE" value="start files" />
+    <MESSAGE value="Fixed frameworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed frameworks" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622489911817">
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622536584327">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1622489911817" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1622492017788">
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1622536584327" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1622536594643">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1622492017788" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1622492017788">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1622536594643" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1622536594639">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1622492017788" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1622492017788">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1622536594639" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1622536594639">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1622492017788" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1622492017788">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1622536594639" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1622536594639">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1622492017788" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1622536594639" />
     <state width="1237" height="231" key="GridCell.Tab.1.bottom" timestamp="1622476340176">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -236,10 +234,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="234" y="73" key="Rider.ProjectTemplateDialog.Size/0.0.1280.680@0.0.1280.680" timestamp="1622475673980" />
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1622475917017">
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1622492845017">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1622475917017" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1622492845017" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1622474981869">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

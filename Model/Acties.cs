@@ -1,4 +1,7 @@
-﻿namespace Model
+﻿using System;
+using System.Diagnostics;
+
+namespace Model
 {
     public static class Acties
     {
@@ -17,8 +20,9 @@
 
         public static void Log_Bijwerken()
         {
-            
+
+            string methodeNaam = new StackTrace().GetFrame(0).GetMethod().Name;
         }
-        
+
     }
 }
