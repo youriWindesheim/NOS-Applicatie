@@ -44,13 +44,17 @@
     <Compile Include="Acties.cs" />
     <Compile Include="Data.cs" />
     <Compile Include="DBLogic\Local_Log.cs" />
+    <Compile Include="DBLogic\LogEventArgs.cs" />
+    <Compile Include="DBLogic\PropChangedEventArgs.cs" />
     <Compile Include="Model_Artikel\Artikel.cs" />
+    <Compile Include="Model_Artikel\ArtikelEventArgs.cs" />
     <Compile Include="Model_Medewerker\Medewerker.cs" />
+    <Compile Include="Properties\Annotations.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Beveiliging" />
     <Folder Include="DBLogic\" />
+    <Folder Include="Beveiliging" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
