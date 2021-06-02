@@ -12,11 +12,12 @@ namespace Model_Test
         public void Setup()
         {
         }
-
-        [Test]
-        public void Login_Test()
+        
+        [TestCase(24, "admin")]
+        [TestCase(25, "test")]
+        public void Login_Test(int personeelsnummer, string wachtwoord)
         {
-            Assert.IsTrue(Acties.Login(24, "admin"));
+            Assert.IsTrue(Acties.Login(personeelsnummer, wachtwoord));
         }
 
         [Test]

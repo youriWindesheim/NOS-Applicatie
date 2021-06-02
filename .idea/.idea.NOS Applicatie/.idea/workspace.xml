@@ -16,25 +16,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ccc2d1-e886-4f08-916a-d401b49df385" name="Default Changelist" comment="Fixed frameworks">
-      <change afterPath="$PROJECT_DIR$/Model/DBLogic/LogEventArgs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/DBLogic/PropChangedEventArgs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Model_Artikel/ArtikelEventArgs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Properties/Annotations.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model_Test/Acties_Test.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model_Test/Model_Artikel_Test/Artikel_Test.cs" afterDir="false" />
+    <list default="true" id="a1ccc2d1-e886-4f08-916a-d401b49df385" name="Default Changelist" comment="Model_Test.csproj">
+      <change afterPath="$PROJECT_DIR$/Model/Beveiliging/Hashing.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewModel_Test/Login_Test.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Model/Acties.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Acties.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/Data.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Data.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Model/Model.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Model.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/Model_Artikel/Artikel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Model_Artikel/Artikel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model2/Acties.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model2/Data.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model2/Model.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model2/Model_Artikel/Artikel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model2/Model_Medewerker/Medewerker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model_Test/Acties_Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model_Test/Acties_Test.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model_Test/Model_Artikel_Test/Artikel_Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model_Test/Model_Artikel_Test/Artikel_Test.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NOS Applicatie.sln" beforeDir="false" afterPath="$PROJECT_DIR$/NOS Applicatie.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/Login_View.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/View/Login_View.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewModel/Login_ViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ViewModel/Login_ViewModel.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,19 +51,21 @@
         <option value="$PROJECT_DIR$/Model/Class1.cs" />
         <option value="$PROJECT_DIR$/Model/Model_Medewerker/Medewerker.cs" />
         <option value="$PROJECT_DIR$/View/Login_View.xaml" />
-        <option value="$PROJECT_DIR$/View/Login_View.xaml.cs" />
-        <option value="$PROJECT_DIR$/ViewModel/Login_ViewModel.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/Log.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/Local_Log.cs" />
         <option value="$PROJECT_DIR$/Model/Model_Artikel/ArtikelEventArgs.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/LogEventArgs.cs" />
         <option value="$PROJECT_DIR$/Model_Test/Data_Test.cs" />
-        <option value="$PROJECT_DIR$/Model_Test/Acties_Test.cs" />
         <option value="$PROJECT_DIR$/Model/Data.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/PropChangedEventArgs.cs" />
-        <option value="$PROJECT_DIR$/Model/Acties.cs" />
         <option value="$PROJECT_DIR$/Model/Model_Artikel/Artikel.cs" />
+        <option value="$PROJECT_DIR$/ViewModel/Login_ViewModel.cs" />
+        <option value="$PROJECT_DIR$/View/Login_View.xaml.cs" />
         <option value="$PROJECT_DIR$/Model_Test/Model_Artikel_Test/Artikel_Test.cs" />
+        <option value="$PROJECT_DIR$/Model/Acties.cs" />
+        <option value="$PROJECT_DIR$/Model_Test/Acties_Test.cs" />
+        <option value="$PROJECT_DIR$/ViewModel_Test/Login_Test.cs" />
+        <option value="$PROJECT_DIR$/Model/Beveiliging/Hashing.cs" />
       </list>
     </option>
   </component>
@@ -125,6 +120,9 @@
       <workItem from="1622537129164" duration="2349000" />
       <workItem from="1622553618884" duration="10248000" />
       <workItem from="1622567122020" duration="198000" />
+      <workItem from="1622576899538" duration="36000" />
+      <workItem from="1622580751613" duration="1361000" />
+      <workItem from="1622640796186" duration="1838000" />
     </task>
     <task id="LOCAL-00001" summary="start files">
       <created>1622474553095</created>
@@ -147,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622492840765</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Model Tests added">
+      <created>1622576914307</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622576914307</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Model_Test.csproj">
+      <created>1622580824357</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622580824357</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +183,9 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="start files" />
     <MESSAGE value="Fixed frameworks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed frameworks" />
+    <MESSAGE value="Model Tests added" />
+    <MESSAGE value="Model_Test.csproj" />
+    <option name="LAST_COMMIT_MESSAGE" value="Model_Test.csproj" />
   </component>
   <component name="WindowStateProjectService">
     <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622536584327">
@@ -258,14 +272,15 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="231" key="GridCell.Tab.4.right/0.0.1280.680@0.0.1280.680" timestamp="1622476340182" />
-    <state x="351" y="112" key="Rider.ProjectTemplateDialog.Size" timestamp="1622557632134">
+    <state x="351" y="112" key="Rider.ProjectTemplateDialog.Size" timestamp="1622581512342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="351" y="112" key="Rider.ProjectTemplateDialog.Size/-1280.56.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1622557632134" />
+    <state x="351" y="112" key="Rider.ProjectTemplateDialog.Size/-1280.56.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1622581512342" />
     <state x="234" y="73" key="Rider.ProjectTemplateDialog.Size/0.0.1280.680@0.0.1280.680" timestamp="1622475673980" />
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1622492845017">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="351" y="113" key="Vcs.Push.Dialog.v2" timestamp="1622580825922">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="351" y="113" key="Vcs.Push.Dialog.v2/-1280.56.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1622580825922" />
     <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1622492845017" />
     <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1622562989121">
       <screen x="0" y="0" width="1920" height="1040" />

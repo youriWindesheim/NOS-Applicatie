@@ -33,7 +33,7 @@ namespace View
 
         private void Login_OnClick(object sender, MouseButtonEventArgs e)
         {
-            _viewmodel.Login(this.txt_personeelsnummer.Text, this.txt_wachtwoord.Text);
+            _viewmodel.Gebruiker_Login(this.txt_personeelsnummer.Text, this.txt_wachtwoord.Text);
         }
     }
 }
