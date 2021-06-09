@@ -9,6 +9,7 @@ namespace View.View_Artikel
         public Artikel_Inzien_View()
         {
             InitializeComponent();
+            WindowStartupLocation = System.Windows.WindowStartupLocation.CenterScreen;
             _viewmodel = new Artikel_Inzien_ViewModel();
             this.tekst.Text = _viewmodel.Get_Inhoud();
         }

@@ -65,6 +65,9 @@
           <e p="Debug" t="Include">
             <e p="App.g.cs" t="Include" />
             <e p="Login_View.g.cs" t="Include" />
+            <e p="View_Artikel" t="Include">
+              <e p="Artikel_Inzien_View.g.cs" t="Include" />
+            </e>
             <e p="View_Medewerker" t="Include">
               <e p="Medewerker_Overzicht.g.cs" t="Include" />
             </e>
