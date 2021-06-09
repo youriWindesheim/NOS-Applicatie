@@ -12,10 +12,13 @@
     <e p="C:\Users\tjour\Documents\C#\NOS\NOS Applicatie" t="IncludeFlat">
       <e p="Model" t="IncludeRecursive">
         <e p="Acties.cs" t="Include" />
-        <e p="Beveiliging" t="Include" />
+        <e p="Beveiliging" t="Include">
+          <e p="Hashing.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="Data.cs" t="Include" />
         <e p="DBLogic" t="Include">
+          <e p="DB_Connectie.cs" t="Include" />
           <e p="Local_Log.cs" t="Include" />
           <e p="LogEventArgs.cs" t="Include" />
           <e p="PropChangedEventArgs.cs" t="Include" />
@@ -94,6 +97,18 @@
         <e p="ViewModel_Medewerker" t="Include">
           <e p="Medewerker_Overzicht_ViewModel.cs" t="Include" />
         </e>
+      </e>
+      <e p="ViewModel_Test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Login_Test.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net461" t="Include">
+              <e p="ViewModel_Test.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ViewModel_Test.csproj" t="IncludeRecursive" />
       </e>
     </e>
   </component>

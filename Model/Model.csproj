@@ -42,7 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Acties.cs" />
+    <Compile Include="Beveiliging\Hashing.cs" />
     <Compile Include="Data.cs" />
+    <Compile Include="DBLogic\DB_Connectie.cs" />
     <Compile Include="DBLogic\Local_Log.cs" />
     <Compile Include="DBLogic\LogEventArgs.cs" />
     <Compile Include="DBLogic\PropChangedEventArgs.cs" />
@@ -54,7 +56,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DBLogic\" />
-    <Folder Include="Beveiliging" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

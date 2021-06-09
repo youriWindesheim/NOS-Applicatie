@@ -19,7 +19,6 @@ namespace Model
         }
 
         public static void Geheugen_Log_Bijwerken(object sender, EventArgs e)
-            // string text, bool toevoegen)
         {
             LogEventArgs logEvent = (LogEventArgs) e;
             Data.Log_Text += $"{logEvent.Tekst}\n";

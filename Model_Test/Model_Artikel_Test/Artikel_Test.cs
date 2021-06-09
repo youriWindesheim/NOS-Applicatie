@@ -21,6 +21,7 @@ namespace Model_Test.Model_Artikel_Test
         public void Open_Artikel_Test()
         {
             Data.Log_Text = "";
+            Data.Actief_Artikel = null;
             Assert.IsNull(Data.Actief_Artikel);
             
             Acties.Vraag_Artikel_Op();
