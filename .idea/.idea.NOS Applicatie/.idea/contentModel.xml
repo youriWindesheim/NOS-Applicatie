@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Home\.nuget\packages\nunit3testadapter\3.16.1\build\net35\nunit.engine.api.dll" t="Include" />
-    <e p="C:\Users\Home\.nuget\packages\nunit3testadapter\3.16.1\build\net35\nunit.engine.dll" t="Include" />
-    <e p="C:\Users\Home\.nuget\packages\nunit3testadapter\3.16.1\build\net35\NUnit3.TestAdapter.dll" t="Include" />
-    <e p="C:\Users\Home\.nuget\packages\nunit3testadapter\3.16.1\build\net35\NUnit3.TestAdapter.pdb" t="Include" />
-    <e p="C:\Users\Home\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Home\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_NOS Applicatie.756032341.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Home\Documents\C#\NOS-Applicatie" t="IncludeFlat">
+    <e p="C:\Users\tjour\.nuget\packages\nunit3testadapter\3.16.1\build\net35\nunit.engine.api.dll" t="Include" />
+    <e p="C:\Users\tjour\.nuget\packages\nunit3testadapter\3.16.1\build\net35\nunit.engine.dll" t="Include" />
+    <e p="C:\Users\tjour\.nuget\packages\nunit3testadapter\3.16.1\build\net35\NUnit3.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\tjour\.nuget\packages\nunit3testadapter\3.16.1\build\net35\NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="C:\Users\tjour\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tjour\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_NOS Applicatie.-1241814739.00" t="ExcludeRecursive" />
+    <e p="C:\Users\tjour\AppData\Roaming\JetBrains\Rider2020.2\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\tjour\AppData\Roaming\JetBrains\Rider2020.2\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\tjour\Documents\C#\NOS\NOS Applicatie" t="IncludeFlat">
       <e p="Model" t="IncludeRecursive">
         <e p="Acties.cs" t="Include" />
         <e p="Beveiliging" t="Include" />
@@ -21,7 +23,7 @@
         <e p="Model.csproj" t="IncludeRecursive" />
         <e p="Model_Artikel" t="Include">
           <e p="Artikel.cs" t="Include" />
-          <e p="ArtikelEventArgs.cs" t="Include" />
+          <e p="Concept.cs" t="Include" />
         </e>
         <e p="Model_Medewerker" t="Include">
           <e p="Medewerker.cs" t="Include" />
@@ -56,7 +58,15 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Login_View.xaml" t="Include" />
         <e p="Login_View.xaml.cs" t="Include" />
-        <e p="obj" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="App.g.cs" t="Include" />
+            <e p="Login_View.g.cs" t="Include" />
+            <e p="View_Medewerker" t="Include">
+              <e p="Medewerker_Overzicht.g.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
           <e p="Resources.Designer.cs" t="Include" />
@@ -78,6 +88,12 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="ViewModel.csproj" t="IncludeRecursive" />
+        <e p="ViewModel_Artikel" t="Include">
+          <e p="Artikel_Inzien_ViewModel.cs" t="Include" />
+        </e>
+        <e p="ViewModel_Medewerker" t="Include">
+          <e p="Medewerker_Overzicht_ViewModel.cs" t="Include" />
+        </e>
       </e>
     </e>
   </component>

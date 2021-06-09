@@ -17,24 +17,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1ccc2d1-e886-4f08-916a-d401b49df385" name="Default Changelist" comment="Fixed frameworks">
-      <change afterPath="$PROJECT_DIR$/Model/DBLogic/LogEventArgs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/DBLogic/PropChangedEventArgs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Model_Artikel/ArtikelEventArgs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Properties/Annotations.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model_Test/Acties_Test.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model_Test/Model_Artikel_Test/Artikel_Test.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Model_Artikel/Concept.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/View_Artikel/Artikel_View.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewModel/ViewModel_Artikel/Artikel_Inzien_ViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewModel/ViewModel_Medewerker/Medewerker_Overzicht_ViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewModel_Test/Login_Test.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Model/Acties.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Acties.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/Data.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Data.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Model/Model.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Model.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Model/Model_Artikel/Artikel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Model_Artikel/Artikel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model2/Acties.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model2/Data.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model2/Model.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model2/Model_Artikel/Artikel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model2/Model_Medewerker/Medewerker.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOS Applicatie.sln" beforeDir="false" afterPath="$PROJECT_DIR$/NOS Applicatie.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Model_Artikel/ArtikelEventArgs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/Login_View.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/View/Login_View.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewModel/ViewModel.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ViewModel/ViewModel.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +40,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DE66FF1-1FCB-4513-8463-255B392B032B/48/a78feb9a/PropertyChangedEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewModel_Test/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -58,7 +53,6 @@
         <option value="$PROJECT_DIR$/Model/Class1.cs" />
         <option value="$PROJECT_DIR$/Model/Model_Medewerker/Medewerker.cs" />
         <option value="$PROJECT_DIR$/View/Login_View.xaml" />
-        <option value="$PROJECT_DIR$/View/Login_View.xaml.cs" />
         <option value="$PROJECT_DIR$/ViewModel/Login_ViewModel.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/Log.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/Local_Log.cs" />
@@ -68,9 +62,13 @@
         <option value="$PROJECT_DIR$/Model_Test/Acties_Test.cs" />
         <option value="$PROJECT_DIR$/Model/Data.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/PropChangedEventArgs.cs" />
-        <option value="$PROJECT_DIR$/Model/Acties.cs" />
-        <option value="$PROJECT_DIR$/Model/Model_Artikel/Artikel.cs" />
         <option value="$PROJECT_DIR$/Model_Test/Model_Artikel_Test/Artikel_Test.cs" />
+        <option value="$PROJECT_DIR$/Model/Model_Artikel/Concept.cs" />
+        <option value="$PROJECT_DIR$/Model/Model_Artikel/Artikel.cs" />
+        <option value="$PROJECT_DIR$/Model/Acties.cs" />
+        <option value="$PROJECT_DIR$/ViewModel/ViewModel_Medewerker/Medewerker_Overzicht_ViewModel.cs" />
+        <option value="$PROJECT_DIR$/ViewModel/ViewModel_Artikel/Artikel_Inzien_ViewModel.cs" />
+        <option value="$PROJECT_DIR$/View/Login_View.xaml.cs" />
       </list>
     </option>
   </component>
@@ -125,6 +123,9 @@
       <workItem from="1622537129164" duration="2349000" />
       <workItem from="1622553618884" duration="10248000" />
       <workItem from="1622567122020" duration="198000" />
+      <workItem from="1622580778975" duration="104000" />
+      <workItem from="1622634359465" duration="24000" />
+      <workItem from="1623269393064" duration="1564000" />
     </task>
     <task id="LOCAL-00001" summary="start files">
       <created>1622474553095</created>
@@ -178,22 +179,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1622536584327" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1622536594643">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1623270309734">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1622536594643" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1622536594639">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623270309734" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1623270309734">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1622536594639" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1622536594639">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1623270309734" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1623270309734">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1622536594639" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1622536594639">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1623270309734" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1623270309734">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1622536594639" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1623270309734" />
     <state width="1237" height="231" key="GridCell.Tab.1.bottom" timestamp="1622476340176">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -267,6 +268,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1622492845017" />
+    <state x="460" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622634376070">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="460" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1622634376070" />
     <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1622562989121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

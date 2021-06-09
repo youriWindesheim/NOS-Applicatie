@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.Diagnostics;
 using Model.DBLogic;
@@ -42,6 +43,13 @@ namespace Model
             artikel.PropertyChanged += Geheugen_Log_Bijwerken;
             artikel.Open_Artikel();
             Data.Actief_Artikel = artikel;
+        }
+
+        public static Dictionary<int, string> Vraag_Artikel_View_Op()
+        {
+            Dictionary<int, string> dic = new Dictionary<int, string>();
+            dic.Add(24, "Coronavirus");
+            return dic;
         }
 
     }

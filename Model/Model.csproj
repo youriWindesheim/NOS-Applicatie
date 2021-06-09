@@ -47,7 +47,7 @@
     <Compile Include="DBLogic\LogEventArgs.cs" />
     <Compile Include="DBLogic\PropChangedEventArgs.cs" />
     <Compile Include="Model_Artikel\Artikel.cs" />
-    <Compile Include="Model_Artikel\ArtikelEventArgs.cs" />
+    <Compile Include="Model_Artikel\Concept.cs" />
     <Compile Include="Model_Medewerker\Medewerker.cs" />
     <Compile Include="Properties\Annotations.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
