@@ -16,20 +16,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ccc2d1-e886-4f08-916a-d401b49df385" name="Default Changelist" comment="Fixed frameworks">
-      <change afterPath="$PROJECT_DIR$/Model/Model_Artikel/Concept.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/View_Artikel/Artikel_View.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ViewModel/ViewModel_Artikel/Artikel_Inzien_ViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ViewModel/ViewModel_Medewerker/Medewerker_Overzicht_ViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ViewModel_Test/Login_Test.cs" afterDir="false" />
+    <list default="true" id="a1ccc2d1-e886-4f08-916a-d401b49df385" name="Default Changelist" comment="Test commit">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/Acties.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Acties.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/Model.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Model.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/Model_Artikel/Artikel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Model_Artikel/Artikel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/Model_Artikel/ArtikelEventArgs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/Login_View.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/View/Login_View.xaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/View/Login_View.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/View/Login_View.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ViewModel/ViewModel.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ViewModel/ViewModel.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +45,6 @@
         <option value="$PROJECT_DIR$/ViewModel/Class1.cs" />
         <option value="$PROJECT_DIR$/Model/Class1.cs" />
         <option value="$PROJECT_DIR$/Model/Model_Medewerker/Medewerker.cs" />
-        <option value="$PROJECT_DIR$/View/Login_View.xaml" />
         <option value="$PROJECT_DIR$/ViewModel/Login_ViewModel.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/Log.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/Local_Log.cs" />
@@ -68,7 +60,10 @@
         <option value="$PROJECT_DIR$/Model/Acties.cs" />
         <option value="$PROJECT_DIR$/ViewModel/ViewModel_Medewerker/Medewerker_Overzicht_ViewModel.cs" />
         <option value="$PROJECT_DIR$/ViewModel/ViewModel_Artikel/Artikel_Inzien_ViewModel.cs" />
+        <option value="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml.cs" />
+        <option value="$PROJECT_DIR$/View/Login_View.xaml" />
         <option value="$PROJECT_DIR$/View/Login_View.xaml.cs" />
+        <option value="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml" />
       </list>
     </option>
   </component>
@@ -125,7 +120,7 @@
       <workItem from="1622567122020" duration="198000" />
       <workItem from="1622580778975" duration="104000" />
       <workItem from="1622634359465" duration="24000" />
-      <workItem from="1623269393064" duration="1564000" />
+      <workItem from="1623269393064" duration="3889000" />
     </task>
     <task id="LOCAL-00001" summary="start files">
       <created>1622474553095</created>
@@ -148,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622492840765</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test commit">
+      <created>1623270986357</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623270986357</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,29 +174,30 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="start files" />
     <MESSAGE value="Fixed frameworks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed frameworks" />
+    <MESSAGE value="Test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622536584327">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1622536584327" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1623270309734">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1623273029785">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623270309734" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1623270309734">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623273029785" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1623273029785">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1623270309734" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1623270309734">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1623273029785" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1623273029785">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1623270309734" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1623270309734">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1623273029785" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1623273029785">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1623270309734" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1623273029785" />
     <state width="1237" height="231" key="GridCell.Tab.1.bottom" timestamp="1622476340176">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -259,15 +262,19 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="231" key="GridCell.Tab.4.right/0.0.1280.680@0.0.1280.680" timestamp="1622476340182" />
+    <state x="280" y="102" key="MultipleFileMergeDialog" timestamp="1623271011612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="280" y="102" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1623271011612" />
     <state x="351" y="112" key="Rider.ProjectTemplateDialog.Size" timestamp="1622557632134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="351" y="112" key="Rider.ProjectTemplateDialog.Size/-1280.56.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1622557632134" />
     <state x="234" y="73" key="Rider.ProjectTemplateDialog.Size/0.0.1280.680@0.0.1280.680" timestamp="1622475673980" />
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1622492845017">
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1623271025231">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1622492845017" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1623271025231" />
     <state x="460" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622634376070">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

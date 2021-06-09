@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="" Height="450" Width="800">
     <Grid>
-        
+        <Grid HorizontalAlignment="Left" Height="399" Margin="636, 10, 0, 0" VerticalAlignment="Top" Width="146">
+            <Border BorderBrush="Black" BorderThickness="2">
+                <StackPanel x:Name="ArtikelPanel" Height="352" Margin="8,35,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="126">
+                    
+                </StackPanel>
+            </Border>
+            <Label Content="Gepubliceerde artikelen" HorizontalAlignment="Left" Margin="10,8,-12,0" VerticalAlignment="Top" Width="148" />
+        </Grid>
     </Grid>
 </Window>
