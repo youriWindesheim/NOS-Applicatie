@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Controls;
+using View.View_Artikel;
 using ViewModel.ViewModel_Medewerker;
 
 namespace View.View_Medewerker
@@ -32,6 +33,12 @@ namespace View.View_Medewerker
         {
             Button btn = (Button) sender;
             Console.WriteLine(btn.Tag);
+            
+            _viewmodel.Open_Artikel(btn.Tag.ToString());
+            
+            Artikel_Inzien_View AI = new Artikel_Inzien_View();
+            AI.Show();
+            this.Hide();
         }
     }
 }

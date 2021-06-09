@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using Model.DBLogic;
 using Model.Model_Artikel;
+using Model.Model_Medewerker;
 
 namespace Model
 {
@@ -15,7 +16,14 @@ namespace Model
         }
         public static bool Login(int personeelsnummer, string wachtwoord)
         {
-            return true;
+            if (personeelsnummer==21 && wachtwoord.Equals("admin")){
+                Data.ActieveGebruiker = new Medewerker(personeelsnummer);
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public static void Geheugen_Log_Bijwerken(object sender, EventArgs e)

@@ -9,5 +9,11 @@ namespace ViewModel.ViewModel_Medewerker
         {
             return Acties.Vraag_Artikel_View_Op();
         }
+
+        public void Open_Artikel(string artikelnummer)
+        {
+            // Acties.Vraag_Artikel_Op(int.Parse(artikelnummer));
+            Acties.Vraag_Artikel_Op();
+        }
     }
 }

@@ -78,6 +78,10 @@
           <e p="Settings.settings" t="Include" />
         </e>
         <e p="View.csproj" t="IncludeRecursive" />
+        <e p="View_Artikel" t="Include">
+          <e p="Artikel_Inzien_View.xaml" t="Include" />
+          <e p="Artikel_Inzien_View.xaml.cs" t="Include" />
+        </e>
         <e p="View_Medewerker" t="Include">
           <e p="Medewerker_Overzicht.xaml" t="Include" />
           <e p="Medewerker_Overzicht.xaml.cs" t="Include" />
@@ -108,7 +112,6 @@
             </e>
           </e>
         </e>
-        <e p="UnitTest1.cs" t="Include" />
         <e p="ViewModel_Test.csproj" t="IncludeRecursive" />
       </e>
     </e>

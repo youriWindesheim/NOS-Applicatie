@@ -55,6 +55,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="View_Artikel\Artikel_Inzien_View.xaml.cs">
+      <DependentUpon>Artikel_Inzien_View.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View_Medewerker\Medewerker_Overzicht.xaml.cs">
       <DependentUpon>Medewerker_Overzicht.xaml</DependentUpon>
     </Compile>
@@ -69,6 +72,7 @@
     <Compile Include="Login_View.xaml.cs">
       <DependentUpon>Login_View.xaml</DependentUpon>
     </Compile>
+    <Page Include="View_Artikel\Artikel_Inzien_View.xaml" />
     <Page Include="View_Medewerker\Medewerker_Overzicht.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
