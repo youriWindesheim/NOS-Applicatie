@@ -20,12 +20,12 @@ namespace Model_Test.Model_Artikel_Test
         [Test]
         public void Open_Artikel_Test()
         {
-            Data.Log_Text = "";
+            Data.Log_Tekst = "";
             Data.Actief_Artikel = null;
             Assert.IsNull(Data.Actief_Artikel);
             
             Acties.Vraag_Artikel_Op();
-            Assert.IsNotEmpty(Data.Log_Text);
+            Assert.IsNotEmpty(Data.Log_Tekst);
             Assert.IsNotNull(Data.Actief_Artikel);
         }
 
@@ -43,11 +43,11 @@ namespace Model_Test.Model_Artikel_Test
         public void OnPropertyChanged_Test()
         {
             Acties.Vraag_Artikel_Op();
-            Data.Log_Text = "";
-            Assert.IsEmpty(Data.Log_Text);
+            Data.Log_Tekst = "";
+            Assert.IsEmpty(Data.Log_Tekst);
             
             Data.Actief_Artikel.Tekst = "hoi";
-            Assert.IsNotEmpty(Data.Log_Text);
+            Assert.IsNotEmpty(Data.Log_Tekst);
         }
     }
 }

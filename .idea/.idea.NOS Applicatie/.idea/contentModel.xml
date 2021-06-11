@@ -32,6 +32,7 @@
           <e p="Medewerker.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
         <e p="Properties" t="Include">
           <e p="Annotations.cs" t="Include" />
           <e p="AssemblyInfo.cs" t="Include" />
@@ -73,6 +74,7 @@
             </e>
           </e>
         </e>
+        <e p="packages.config" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
           <e p="Resources.Designer.cs" t="Include" />
@@ -94,6 +96,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Login_ViewModel.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
@@ -114,6 +117,9 @@
               <e p="ViewModel_Test.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="ViewModel_Artikel_Test" t="Include">
+          <e p="Artikel_Inzien_Test.cs" t="Include" />
         </e>
         <e p="ViewModel_Test.csproj" t="IncludeRecursive" />
       </e>

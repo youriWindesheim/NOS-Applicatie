@@ -16,7 +16,34 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ccc2d1-e886-4f08-916a-d401b49df385" name="Default Changelist" comment="works againnn" />
+    <list default="true" id="a1ccc2d1-e886-4f08-916a-d401b49df385" name="Default Changelist" comment="viewmodel test unit">
+      <change afterPath="$PROJECT_DIR$/Model/packages.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/packages.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewModel/packages.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewModel_Test/ViewModel_Artikel_Test/Artikel_Inzien_Test.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NOS Applicatie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/NOS Applicatie/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/NOS Applicatie/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/NOS Applicatie/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/NOS Applicatie/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Acties.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Acties.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/DBLogic/DB_Connectie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/DBLogic/DB_Connectie.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/DBLogic/Local_Log.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/DBLogic/Local_Log.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Data.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Data.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Model.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Model.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Model_Medewerker/Medewerker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Model_Medewerker/Medewerker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model_Test/Acties_Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model_Test/Acties_Test.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model_Test/Model_Artikel_Test/Artikel_Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model_Test/Model_Artikel_Test/Artikel_Test.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model_Test/Model_Test.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Model_Test/Model_Test.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/View.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/View/View.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/View_Artikel/Artikel_Inzien_View.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/View/View_Artikel/Artikel_Inzien_View.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/View_Artikel/Artikel_Inzien_View.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/View/View_Artikel/Artikel_Inzien_View.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewModel/ViewModel.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ViewModel/ViewModel.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewModel/ViewModel_Artikel/Artikel_Inzien_ViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ViewModel/ViewModel_Artikel/Artikel_Inzien_ViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewModel/ViewModel_Medewerker/Medewerker_Overzicht_ViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ViewModel/ViewModel_Medewerker/Medewerker_Overzicht_ViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewModel_Test/ViewModel_Test.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ViewModel_Test/ViewModel_Test.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +55,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5F37459E-F130-4442-BA19-EE268C49D074/3b/7fe5e1e3/Number.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C074C98E-941F-4A94-95CF-370FFAD6903C/1d/caf0d62c/RoutedEventHandlerInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/998F2491-CDE6-4F39-9B36-14F82C288B4F/0e/f2295626/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5F37459E-F130-4442-BA19-EE268C49D074/50/74b5fcf0/__Error.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C074C98E-941F-4A94-95CF-370FFAD6903C/80/5e84e1e0/EventRoute.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../KBS Mini-spotify(rider)/DBlogic/DB_Get.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C074C98E-941F-4A94-95CF-370FFAD6903C/1a/6292a947/RouteItem.cs" root0="SKIP_HIGHLIGHTING" />
@@ -41,29 +70,33 @@
         <option value="$PROJECT_DIR$/Model/Security.cs" />
         <option value="$PROJECT_DIR$/ViewModel/Class1.cs" />
         <option value="$PROJECT_DIR$/Model/Class1.cs" />
-        <option value="$PROJECT_DIR$/Model/Model_Medewerker/Medewerker.cs" />
         <option value="$PROJECT_DIR$/ViewModel/Login_ViewModel.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/Log.cs" />
-        <option value="$PROJECT_DIR$/Model/DBLogic/Local_Log.cs" />
         <option value="$PROJECT_DIR$/Model/Model_Artikel/ArtikelEventArgs.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/LogEventArgs.cs" />
         <option value="$PROJECT_DIR$/Model_Test/Data_Test.cs" />
         <option value="$PROJECT_DIR$/Model_Test/Acties_Test.cs" />
-        <option value="$PROJECT_DIR$/Model/Data.cs" />
         <option value="$PROJECT_DIR$/Model/DBLogic/PropChangedEventArgs.cs" />
         <option value="$PROJECT_DIR$/Model_Test/Model_Artikel_Test/Artikel_Test.cs" />
         <option value="$PROJECT_DIR$/Model/Model_Artikel/Concept.cs" />
         <option value="$PROJECT_DIR$/Model/Model_Artikel/Artikel.cs" />
         <option value="$PROJECT_DIR$/View/Login_View.xaml" />
-        <option value="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml" />
         <option value="$PROJECT_DIR$/View/View_Artikel/Artikel_View.xaml" />
         <option value="$PROJECT_DIR$/View/Login_View.xaml.cs" />
+        <option value="$PROJECT_DIR$/View/View_Artikel/Artikel_Inzien_View.xaml" />
+        <option value="$PROJECT_DIR$/ViewModel_Test/ViewModel_Artikel_Test/Artikel_Inzien_Test.cs" />
+        <option value="$PROJECT_DIR$/Model/Model_Medewerker/Medewerker.cs" />
+        <option value="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml" />
+        <option value="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml.cs" />
+        <option value="$PROJECT_DIR$/View/View_Artikel/Artikel_Inzien_View.xaml.cs" />
+        <option value="$PROJECT_DIR$/ViewModel/ViewModel_Artikel/Artikel_Inzien_ViewModel.cs" />
+        <option value="$PROJECT_DIR$/Model/Data.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2b29cec1-f3ac-49ad-a5c7-3c17e857fa20/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2b29cec1-f3ac-49ad-a5c7-3c17e857fa20/console_1.sql" />
+        <option value="$PROJECT_DIR$/Model/DBLogic/DB_Connectie.cs" />
         <option value="$PROJECT_DIR$/Model/Acties.cs" />
         <option value="$PROJECT_DIR$/ViewModel/ViewModel_Medewerker/Medewerker_Overzicht_ViewModel.cs" />
-        <option value="$PROJECT_DIR$/View/View_Medewerker/Medewerker_Overzicht.xaml.cs" />
-        <option value="$PROJECT_DIR$/ViewModel/ViewModel_Artikel/Artikel_Inzien_ViewModel.cs" />
-        <option value="$PROJECT_DIR$/View/View_Artikel/Artikel_Inzien_View.xaml" />
-        <option value="$PROJECT_DIR$/View/View_Artikel/Artikel_Inzien_View.xaml.cs" />
+        <option value="$PROJECT_DIR$/Model/DBLogic/Local_Log.cs" />
       </list>
     </option>
   </component>
@@ -77,10 +110,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34991708" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30016583" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -123,6 +158,16 @@
       <workItem from="1622580778975" duration="104000" />
       <workItem from="1622634359465" duration="24000" />
       <workItem from="1623269393064" duration="7101000" />
+      <workItem from="1623278943533" duration="1756000" />
+      <workItem from="1623309054430" duration="1254000" />
+      <workItem from="1623312504268" duration="2271000" />
+      <workItem from="1623321278219" duration="1474000" />
+      <workItem from="1623323185342" duration="1898000" />
+      <workItem from="1623340081417" duration="3752000" />
+      <workItem from="1623354976943" duration="4082000" />
+      <workItem from="1623391829791" duration="360000" />
+      <workItem from="1623403201012" duration="2963000" />
+      <workItem from="1623413658788" duration="550000" />
     </task>
     <task id="LOCAL-00001" summary="start files">
       <created>1622474553095</created>
@@ -166,7 +211,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623277691315</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="artikel inzien">
+      <created>1623278981764</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623278981764</updated>
+    </task>
+    <task id="LOCAL-00008" summary="viewmodel test unit">
+      <created>1623279908366</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623279908366</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,97 +253,99 @@
     <MESSAGE value="Test commit" />
     <MESSAGE value="works again" />
     <MESSAGE value="works againnn" />
-    <option name="LAST_COMMIT_MESSAGE" value="works againnn" />
+    <MESSAGE value="artikel inzien" />
+    <MESSAGE value="viewmodel test unit" />
+    <option name="LAST_COMMIT_MESSAGE" value="viewmodel test unit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622536584327">
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623360406628">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1622536584327" />
-    <state width="406" height="436" key="DebuggerActiveHint" timestamp="1623277246681">
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1623360406628" />
+    <state width="524" height="486" key="DebuggerActiveHint" timestamp="1623361478056">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="406" height="436" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1623277246681" />
-    <state width="1237" height="183" key="GridCell.Tab.0.bottom" timestamp="1623277757108">
+    <state width="524" height="486" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1623361478056" />
+    <state width="1237" height="160" key="GridCell.Tab.0.bottom" timestamp="1623361751453">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.0.center" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623361751453" />
+    <state width="1237" height="160" key="GridCell.Tab.0.center" timestamp="1623361751448">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.0.left" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1623361751448" />
+    <state width="1237" height="160" key="GridCell.Tab.0.left" timestamp="1623361751448">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.0.right" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1623361751448" />
+    <state width="1237" height="160" key="GridCell.Tab.0.right" timestamp="1623361751453">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.1.bottom" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1623361751453" />
+    <state width="1237" height="160" key="GridCell.Tab.1.bottom" timestamp="1623361751454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.1.center" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623361751454" />
+    <state width="1237" height="160" key="GridCell.Tab.1.center" timestamp="1623361751454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.1.left" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1623361751454" />
+    <state width="1237" height="160" key="GridCell.Tab.1.left" timestamp="1623361751453">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.1.right" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1623361751453" />
+    <state width="1237" height="160" key="GridCell.Tab.1.right" timestamp="1623361751454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.2.bottom" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1623361751454" />
+    <state width="1237" height="160" key="GridCell.Tab.2.bottom" timestamp="1623361751454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.2.center" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623361751454" />
+    <state width="1237" height="160" key="GridCell.Tab.2.center" timestamp="1623361751454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.2.left" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1623361751454" />
+    <state width="1237" height="160" key="GridCell.Tab.2.left" timestamp="1623361751454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.2.right" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1623361751454" />
+    <state width="1237" height="160" key="GridCell.Tab.2.right" timestamp="1623361751454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.3.bottom" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1623361751454" />
+    <state width="1237" height="160" key="GridCell.Tab.3.bottom" timestamp="1623361751455">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.3.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.3.center" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.3.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623361751455" />
+    <state width="1237" height="160" key="GridCell.Tab.3.center" timestamp="1623361751454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.3.center/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.3.left" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.3.center/0.0.1280.680@0.0.1280.680" timestamp="1623361751454" />
+    <state width="1237" height="160" key="GridCell.Tab.3.left" timestamp="1623361751454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.3.left/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.3.right" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.3.left/0.0.1280.680@0.0.1280.680" timestamp="1623361751454" />
+    <state width="1237" height="160" key="GridCell.Tab.3.right" timestamp="1623361751454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.4.bottom" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1623361751454" />
+    <state width="1237" height="160" key="GridCell.Tab.4.bottom" timestamp="1623361751456">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.4.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.4.center" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.4.bottom/0.0.1280.680@0.0.1280.680" timestamp="1623361751456" />
+    <state width="1237" height="160" key="GridCell.Tab.4.center" timestamp="1623361751455">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.4.center/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.4.left" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.4.center/0.0.1280.680@0.0.1280.680" timestamp="1623361751455" />
+    <state width="1237" height="160" key="GridCell.Tab.4.left" timestamp="1623361751455">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.4.left/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
-    <state width="1237" height="183" key="GridCell.Tab.4.right" timestamp="1623277757108">
+    <state width="1237" height="160" key="GridCell.Tab.4.left/0.0.1280.680@0.0.1280.680" timestamp="1623361751455" />
+    <state width="1237" height="160" key="GridCell.Tab.4.right" timestamp="1623361751456">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.4.right/0.0.1280.680@0.0.1280.680" timestamp="1623277757108" />
+    <state width="1237" height="160" key="GridCell.Tab.4.right/0.0.1280.680@0.0.1280.680" timestamp="1623361751456" />
     <state x="280" y="102" key="MultipleFileMergeDialog" timestamp="1623271011612">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -294,14 +355,14 @@
     </state>
     <state x="351" y="112" key="Rider.ProjectTemplateDialog.Size/-1280.56.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1622557632134" />
     <state x="234" y="73" key="Rider.ProjectTemplateDialog.Size/0.0.1280.680@0.0.1280.680" timestamp="1622475673980" />
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1623277724763">
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1623279915350">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1623277724763" />
-    <state width="646" height="346" key="XDebugger.FullValuePopup" timestamp="1623277246681">
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1623279915350" />
+    <state width="646" height="346" key="XDebugger.FullValuePopup" timestamp="1623341925173">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="646" height="346" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1623277246681" />
+    <state width="646" height="346" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1623341925173" />
     <state x="460" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622634376070">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -310,6 +371,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="dock-window-1/-1280.56.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1622562989121" />
+    <state x="298" y="151" key="run.anything.popup" timestamp="1623340654409">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="298" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1623340654409" />
     <state x="455" y="2" width="1008" height="1037" key="search.everywhere.popup" timestamp="1622562529992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -320,19 +385,24 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Model/Acties.cs</url>
-          <line>47</line>
-          <properties documentPath="C:\Users\tjour\Documents\C#\NOS\NOS Applicatie\Model\Acties.cs" initialLine="47">
+          <url>file://$PROJECT_DIR$/ViewModel/ViewModel_Artikel/Artikel_Inzien_ViewModel.cs</url>
+          <line>24</line>
+          <properties documentPath="C:\Users\tjour\Documents\C#\NOS\NOS Applicatie\ViewModel\ViewModel_Artikel\Artikel_Inzien_ViewModel.cs" initialLine="24">
             <startOffsets>
-              <option value="1316" />
+              <option value="606" />
             </startOffsets>
             <endOffsets>
-              <option value="1748" />
+              <option value="642" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#System.Data.DataColumn" memberName="Expression" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

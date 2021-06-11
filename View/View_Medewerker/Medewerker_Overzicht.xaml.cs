@@ -18,6 +18,7 @@ namespace View.View_Medewerker
             InitializeComponent();
             WindowStartupLocation = System.Windows.WindowStartupLocation.CenterScreen;
             _viewmodel = new Medewerker_Overzicht_ViewModel();
+            _viewmodel.Log_Bijwerken();
 
             foreach (KeyValuePair<int, string> entry in _viewmodel.Get_Artikelen())
             {
@@ -39,6 +40,15 @@ namespace View.View_Medewerker
             Artikel_Inzien_View AI = new Artikel_Inzien_View();
             AI.Show();
             this.Hide();
+        }
+
+        private void Medewerker_Overzicht_OnClosed(object sender, EventArgs e)
+        {
+            _viewmodel.LogOut();
+            Login_View LV = new Login_View();
+            LV.Show();
+            this.Hide();
+            
         }
     }
 }

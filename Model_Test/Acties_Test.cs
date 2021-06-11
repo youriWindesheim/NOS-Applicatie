@@ -23,13 +23,13 @@ namespace Model_Test
         [Test]
         public void Geheugen_Log_Bijwerken_Test()
         {
-            Data.Log_Text = "";
+            Data.Log_Tekst = "";
             string methodeNaam = new StackTrace().GetFrame(0).GetMethod().Name;
             string tekst = $"{24}:[{methodeNaam}](12) - {DateTime.Now}";
             Acties.Geheugen_Log_Bijwerken(null, new LogEventArgs(){Tekst = tekst});
             
             //new line aangezien Acties class dat ook doet i.v.m. opmaak
-            Assert.IsTrue(Data.Log_Text.Equals((tekst + "\n")));
+            Assert.IsTrue(Data.Log_Tekst.Equals((tekst + "\n")));
         }
         
     }
